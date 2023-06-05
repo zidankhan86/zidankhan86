@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zidankhan86&label=Profile%20views&color=0e75b6&style=flat" alt="zidankhan86" /> </p>
 
+- 🌱 I’m currently learning **Vue.js**
+
 - 💬 Ask me about **Php , Laravel**
 
 - 📫 How to reach me **zidankhan718@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fazle rabbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fazle rabbi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fazle-rabbi-191969182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fazle-rabbi-191969182/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/zidan.khan.1234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zidan.khan.1234/" height="30" width="40" /></a>
-<a href="https://instagram.com/zidan.k_han" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zidan.k_han" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/zidan.k_han/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/zidan.k_han/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
