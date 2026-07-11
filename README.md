@@ -1,66 +1,107 @@
 <h1 align="center">Hi 👋, I'm Fazle Rabbi Zidan</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zidankhan86&label=Profile%20views&color=0e75b6&style=flat" alt="zidankhan86" /> </p>
+<h3 align="center">
+Laravel Backend Developer • PHP • MySQL • Vue.js
+</h3>
 
-
-- 🌱 I’m currently learning **Vue.js**
-
-- 💬 Ask me about **Php , Laravel**
-
-- 📫 How to reach me **zidankhan718@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fazle-rabbi-191969182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/zidan86" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/zidan.khan.1234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zidan.khan.1234/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/zidan.k_han/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/zidan.k_han/" height="30" width="40" /></a>
+<p align="center">
+Passionate about building scalable web applications and modern backend systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 🚀 About Me
+
+- 💼 Backend Developer from Bangladesh
+- 🌱 Currently learning **Vue.js**
+- 💬 Ask me about **PHP, Laravel, MySQL**
+- ⚡ I love building Booking Systems, SaaS Platforms & Custom Web Applications
+- 📫 Reach me at **zidankhan718@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/>
+
+<a href="https://www.linkedin.com/in/fazle-rabbi-191969182/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://www.facebook.com/zidan.khan.1234/" target="_blank">
+<img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+
+<a href="https://www.instagram.com/zidan.k_han/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zidankhan86&show_icons=true&locale=en&layout=compact" alt="zidankhan86" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zidankhan86&show_icons=true&locale=en" alt="zidankhan86" /></p>
+## 💻 Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zidankhan86&" alt="zidankhan86" /></p>
+<p>
 
-## <b> My GitHub Stats</b>
+<img src="https://skillicons.dev/icons?i=php,laravel,vue,html,css,js,bootstrap,mysql,git,github,vscode,postman" />
 
-<a align="left" href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdrobin45&theme=aura&border=142C77" alt="Zidan's GitHub Streak" /></a>
-<a align="right" href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadnkhan86&show_icons=true&theme=dark&locale=en&layout=compact" alt="mdrobin45" /></a>
+</p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zidankhan86&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidankhan86&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zidankhan86&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zidankhan86&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=zidankhan86&theme=tokyonight&no-frame=true&column=7"/>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=zidankhan86&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+</p>
+
+---
+
+## 💡 Quote
+
+> "Code is like humor. When you have to explain it, it's bad."
