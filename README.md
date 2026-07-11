@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center">
-  🚀 Laravel Backend Developer | PHP | MySQL | Vue.js
+  🚀 Laravel Backend Developer | Booking System Specialist | PHP | MySQL | Vue.js
 </h3>
 
 <p align="center">
-  Building scalable web applications, SaaS platforms & custom solutions.
+  Building powerful booking platforms, reservation systems, SaaS applications & custom Laravel solutions.
 </p>
 
 
@@ -17,7 +17,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Laravel+Backend+Developer;PHP+%7C+MySQL+Expert;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Laravel+Backend+Developer;Online+Booking+System+Expert;Restaurant+Reservation+Developer;SaaS+Application+Builder;Always+Learning+New+Technologies"/>
 </p>
 
 
@@ -27,10 +27,11 @@
 
 
 - 🔥 Laravel Backend Developer from Bangladesh
-- 💼 Experienced in building custom web applications
+- 💼 Specialized in Online Booking & Reservation Systems
+- 📅 Building Appointment, Restaurant & Hospitality Platforms
 - 🌱 Currently learning **Vue.js**
 - 💬 Ask me about **PHP, Laravel, MySQL, APIs**
-- ⚡ Passionate about clean architecture and scalable systems
+- ⚡ Passionate about scalable architecture and clean backend systems
 - 📫 Email: **zidankhan718@gmail.com**
 
 
@@ -55,7 +56,6 @@
 <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
 </a>
 
-
 </p>
 
 
@@ -73,7 +73,7 @@
 
 ---
 
-# 🚀 What I Build
+# 🚀 My Main Focus
 
 
 <table>
@@ -83,12 +83,20 @@
 <td width="50%">
 
 
-### 🏢 Business Applications
+## 📅 Online Booking Systems
 
-✔ Booking Systems  
-✔ CRM Platforms  
-✔ Admin Dashboards  
-✔ SaaS Applications  
+
+I build complete booking platforms including:
+
+
+✔ Appointment Scheduling  
+✔ Real-time Availability Calendar  
+✔ Staff Management  
+✔ Customer Profiles  
+✔ Automated Email Notifications  
+✔ Payment Gateway Integration  
+✔ Booking Management Dashboard  
+✔ Calendar Synchronization  
 
 
 </td>
@@ -97,19 +105,64 @@
 <td width="50%">
 
 
-### 🛒 E-Commerce Solutions
+## 🍽️ Restaurant & Pub Reservation Systems
 
-✔ Online Stores  
-✔ Payment Integration  
-✔ Inventory Systems  
-✔ Multi Vendor Platforms  
+
+Building modern hospitality solutions:
+
+
+✔ Table Reservation System  
+✔ Guest Management  
+✔ Event Booking  
+✔ Private Party Booking  
+✔ Time Slot Management  
+✔ Reservation Dashboard  
+✔ Customer Notifications  
+✔ Admin Control Panel  
 
 
 </td>
 
+
 </tr>
 
 </table>
+
+
+
+---
+
+# 💈 Booking Platforms I Build
+
+
+### Salon & Barbershop Booking Platform
+
+
+Features:
+
+- Fresha / Booksy style booking workflow
+- Staff availability management
+- Service duration system
+- Appointment calendar
+- Customer reviews
+- Coupons & promotions
+- Multi-location support
+
+
+
+---
+
+# 🏢 Other Business Solutions
+
+
+✔ SaaS Applications  
+✔ CRM Platforms  
+✔ Admin Dashboards  
+✔ E-Commerce Systems  
+✔ API Development  
+✔ Payment Integrations  
+✔ Custom Laravel Applications
+
 
 
 ---
@@ -117,35 +170,82 @@
 # 📌 Featured Projects
 
 
-### ✂️ Salon Booking Platform
+## 🍽️ Restaurant & Pub Reservation Platform
 
-Laravel based booking system with:
 
-- Appointment Management
+A complete reservation management system for restaurants, pubs and hospitality businesses.
+
+
+### Features:
+
+- Online Table Booking
+- Reservation Calendar
+- Guest Management
+- Event Reservation
+- Private Booking
+- Customer Notifications
+- Admin Dashboard
+- Booking Reports
+
+
+
+---
+
+## 💈 Salon Booking Management System
+
+
+A premium appointment booking platform inspired by Fresha and Booksy.
+
+
+### Features:
+
 - Staff Scheduling
-- Calendar System
+- Service Management
+- Appointment Calendar
+- Customer Profiles
 - Payment Integration
-- Customer Management
+- Automated Reminders
+- Reviews System
+- Multi Branch Support
 
 
-### 🚗 Car Rental Platform
 
-Features:
+---
+
+## 🚗 Car Rental Booking Platform
+
+
+Laravel based vehicle reservation solution.
+
+
+### Features:
 
 - Vehicle Management
+- Availability Checking
 - Booking Workflow
-- Admin Dashboard
-- Payment System
+- Customer Dashboard
+- Payment Integration
+- Admin Management
 
 
-### 🛍️ E-Commerce Platform
 
-Features:
+---
+
+## 🛒 E-Commerce Platform
+
+
+Custom Laravel commerce solution.
+
+
+### Features:
 
 - Product Management
-- Orders
-- Inventory
+- Inventory System
+- Order Management
+- Payment Gateway
 - Customer Dashboard
+- Admin Panel
+
 
 
 ---
@@ -234,6 +334,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidankhan86&
 ⭐ Thanks for visiting my profile ⭐
 
 </h3>
+
 
 <p align="center">
 
